@@ -1,0 +1,33 @@
+!SESSION 2014-12-17 22:54:02.723 -----------------------------------------------
+eclipse.buildId=4.4.1.Z20141128-1105
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_DK
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:04.057
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/rse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:04.742
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/emf.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:04.954
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/remote.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:04.990
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/dropins/cvs.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:05.028
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/dropins/cdt.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:05.439
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/dropins/jdt.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:05.517
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/dropins/sdk.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:06.218
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/plugins/org.eclipse.platform_4.3.2.v20140324-2304.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2014-12-17 22:54:06.252
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/plugins/org.eclipse.platform_4.3.2.v20140324-2304.
